@@ -1,0 +1,12 @@
+{
+  "extends": "@ignite-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ],
+  "@typescript-eslint/no-empty-interface": [
+    "error",
+    {
+      "allowSingleExtends": false
+    }
+  ]
+}
