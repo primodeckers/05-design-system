@@ -9,7 +9,7 @@ const config = {
   ],
   framework: {
     name: "@storybook/react-vite",
-    options: {},
+    options: {}
   }
 };
 export default config;
