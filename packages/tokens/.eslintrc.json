@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/eslint-config",
+  "extends": "@primodeckers-ignite-ui/eslint-config",
   "plugins": [
     "prettier"
   ],
